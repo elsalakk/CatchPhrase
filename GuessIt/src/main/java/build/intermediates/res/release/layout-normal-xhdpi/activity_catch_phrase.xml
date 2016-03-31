@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:keepScreenOn="true"
+    android:id="@+id/main_screen">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/body"
+        android:layout_gravity="left|center_vertical"
+        android:background="@drawable/body"
+        android:contentDescription="@string/toy_body"
+        android:layout_marginLeft="0dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|top"
+        android:id="@+id/ad_scoreboard">
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/googleAds"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/advert"
+            android:layout_gravity="right|top"/>
+
+        <TextView
+            android:layout_width="65dp"
+            android:layout_height="75dp"
+            android:text="0"
+            android:id="@+id/team2_scoreboard"
+            android:layout_gravity="right|top"
+            android:background="@drawable/scoreboard"
+            android:gravity="center"
+            android:textSize="40sp"
+            android:textColor="#14d200"
+            android:onClick="decT2"
+            android:longClickable="true"
+            android:singleLine="true"
+            android:clickable="true"
+            android:layout_below="@+id/googleAds"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="65dp"
+            android:layout_height="75dp"
+            android:text="0"
+            android:id="@+id/team1_scoreboard"
+            android:layout_gravity="right|top"
+            android:background="@drawable/scoreboard"
+            android:gravity="center"
+            android:textColor="#14d200"
+            android:onClick="decT1"
+            android:longClickable="true"
+            android:textSize="40sp"
+            android:clickable="true"
+            android:layout_alignTop="@+id/team2_scoreboard"
+            android:layout_toLeftOf="@+id/team2_scoreboard"
+            android:layout_toStartOf="@+id/team2_scoreboard"
+            android:layout_marginRight="5dp" />
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:text="Time: 000"
+            android:id="@+id/timer"
+            android:background="@drawable/timer"
+            android:textColor="#000"
+            android:textSize="40sp"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:layout_below="@+id/googleAds"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/startinfo"
+            android:focusable="false"
+            android:background="@drawable/info_button_action"
+            android:onClick="startInfo"
+            android:layout_alignBottom="@+id/timer"
+            android:layout_toLeftOf="@+id/team1_scoreboard"
+            android:layout_toStartOf="@+id/team1_scoreboard" />
+
+    </RelativeLayout>
+
+    <Button
+        android:onClick="categoryButton"
+        android:layout_width="320dp"
+        android:layout_height="150dp"
+        android:id="@+id/category_button"
+        android:background="@drawable/category_button_action"
+        android:textSize="32sp"
+        android:layout_gravity="right|bottom"
+        android:gravity="bottom|end"
+        android:textColor="#ffffff"
+        android:text="@string/category_button_text"
+        android:singleLine="false"
+        android:paddingBottom="10dp"
+        android:paddingRight="15dp"
+        android:textStyle="italic" />
+
+    <Button
+        android:onClick="team2Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_vertical"
+        android:background="@drawable/small_button_action"
+        android:id="@+id/team2_button"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="20dp"
+        android:textColor="#ffffff"
+        android:text="Team 2"
+        android:gravity="center"
+        android:textSize="16sp" />
+
+    <Button
+        android:onClick="team1Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:elegantTextHeight="false"
+        android:layout_gravity="left|center_vertical"
+        android:background="@drawable/small_button_action"
+        android:id="@+id/team1_button"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="25dp"
+        android:text="Team 1"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textSize="16sp" />
+
+    <Button
+        android:onClick="nextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next_button_text"
+        android:id="@+id/next_button"
+        android:background="@drawable/next_button_action"
+        android:textSize="60sp"
+        android:layout_gravity="center"
+        android:textColor="#ffffff"
+        android:layout_marginTop="105dp"
+        android:layout_marginLeft="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title"
+        android:textSize="50sp"
+        android:id="@+id/title_text"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="-140dp"
+        android:textColor="#000"
+        android:layout_gravity="center|left" />
+
+    <Button
+        android:onClick="goButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GO!"
+        android:id="@+id/go_button"
+        android:layout_gravity="left|center_vertical"
+        android:layout_marginTop="160dp"
+        android:background="@drawable/go_button_action"
+        android:textColor="#000"
+        android:layout_marginLeft="05dp"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello"
+        android:id="@+id/screen"
+        android:layout_gravity="center|left"
+        android:background="@drawable/screen"
+        android:layout_marginTop="-60dp"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        android:textIsSelectable="false"
+        android:textStyle="bold"
+        android:elegantTextHeight="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/opt_button"
+        android:layout_gravity="left|bottom"
+        android:background="@drawable/settings_action"
+        android:clickable="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="40dp"
+        android:onClick="options" />
+
+
+</FrameLayout>
+<!-- From: file:/C:/Users/Khaled/AndroidStudioProjects/GuessIt/app/src/main/res/layout-normal-xhdpi/activity_guess_it.xml

@@ -1,0 +1,243 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background">
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/custom_goSound">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/difficulty"
+            android:id="@+id/phrase_difficutly"
+            android:layout_gravity="left|top"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <RadioGroup
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-20dp">
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Easy"
+                android:id="@+id/easy"
+                android:layout_gravity="left|top"
+                android:textSize="25sp"
+                android:layout_marginLeft="30dp"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:layout_marginTop="60dp"
+                android:onClick="easy"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hard"
+                android:id="@+id/hard"
+                android:layout_gravity="left|top"
+                android:checked="false"
+                android:textSize="25sp"
+                android:layout_marginLeft="30dp"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:layout_marginTop="0dp"
+                android:onClick="hard"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Both"
+                android:id="@+id/both"
+                android:checked="false"
+                android:textSize="25sp"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:layout_marginLeft="30dp"
+                android:onClick="both"/>
+        </RadioGroup>
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/close"
+            android:layout_gravity="right|top"
+            android:background="@drawable/close_button_action"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="10dp"
+            android:onClick="finish"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/user_input_dic"
+            android:layout_gravity="left|top"
+            android:layout_marginTop="230dp"
+            android:layout_marginLeft="30dp"
+            android:hint="@string/dictionaryDir"
+            android:layout_marginRight="30dp"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/user_dictioary_title"
+            android:id="@+id/userDictionaryTitle"
+            android:layout_gravity="left|top"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="190dp"
+            android:textColor="#ffffff"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/user_goSound_title"
+            android:id="@+id/userGoTitle"
+            android:layout_gravity="left|top"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="430dp"
+            android:textColor="#ffffff"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/dictionaryEx"
+            android:layout_gravity="left|top"
+            android:text="@string/exampleDictionary"
+            android:textSize="15dp"
+            android:background="#000"
+            android:textColor="#ffffff"
+            android:gravity="center|start"
+            android:layout_marginTop="285dp"
+            android:layout_marginLeft="30dp"
+            android:padding="8dp"
+            android:layout_marginRight="20dp" />
+
+        <Button
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:id="@+id/button3"
+            android:layout_gravity="left|top"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="195dp"
+            android:onClick="displayInfo"
+            android:background="@drawable/info_button_action" />
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="405dp"
+            android:layout_gravity="left|top">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="30 Sec"
+                android:id="@+id/half"
+                android:layout_gravity="left|top"
+                android:textSize="25sp"
+                android:layout_marginLeft="30dp"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:layout_marginTop="60dp"
+                android:onClick="half" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1 Min"
+                android:id="@+id/one"
+                android:layout_gravity="left|top"
+                android:checked="false"
+                android:textSize="25sp"
+                android:layout_marginLeft="30dp"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:layout_marginTop="0dp"
+                android:onClick="one" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2 Min"
+                android:id="@+id/two"
+                android:checked="false"
+                android:textSize="25sp"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:layout_marginLeft="30dp"
+                android:onClick="two" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Custom"
+                android:id="@+id/custom"
+                android:layout_marginLeft="30dp"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:onClick="custom" />
+        </RadioGroup>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/user_input_mus"
+            android:layout_gravity="left|top"
+            android:layout_marginTop="710dp"
+            android:layout_marginLeft="30dp"
+            android:hint="@string/enterMp3Hint"
+            android:layout_marginRight="40dp"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Custom Go Sound (Mp3)"
+            android:id="@+id/textView3"
+            android:layout_gravity="left|top"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="660dp"
+            android:textColor="#ffffff"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/editText"
+            android:layout_gravity="left|top"
+            android:text="Hints\n-------------\n-Tap a Scoreboard to decrease score\n-Hold a scoreboard to reset scores\n-Hold &quot;category&quot; to go into variety mode"
+            android:textSize="15dp"
+            android:background="#000"
+            android:textColor="#ffffff"
+            android:gravity="center|start"
+            android:layout_marginTop="760dp"
+            android:layout_marginLeft="30dp"
+            android:padding="8dp"
+            android:layout_marginRight="20dp" />
+
+
+    </FrameLayout>
+
+
+
+
+</ScrollView>

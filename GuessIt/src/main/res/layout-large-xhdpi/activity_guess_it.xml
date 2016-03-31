@@ -1,0 +1,203 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:keepScreenOn="true"
+    android:id="@+id/main_screen">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/body"
+        android:layout_gravity="left|center_vertical"
+        android:background="@drawable/body"
+        android:contentDescription="@string/toy_body"
+        android:layout_marginLeft="0dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|top"
+        android:id="@+id/ad_scoreboard">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="125dp"
+            android:id="@+id/imageView"
+            android:layout_alignTop="@+id/team2_scoreboard"
+            android:layout_toStartOf="@+id/team2_scoreboard"
+            android:background="@drawable/scoreboard"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="95dp"
+            android:layout_height="125dp"
+            android:text="0"
+            android:id="@+id/team2_scoreboard"
+            android:layout_gravity="right|top"
+            android:background="@drawable/scoreboard"
+            android:gravity="center"
+            android:textSize="50sp"
+            android:textColor="#ffffff"
+            android:longClickable="false"
+            android:singleLine="true"
+            android:clickable="false"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="95dp"
+            android:layout_height="125dp"
+            android:text="0"
+            android:id="@+id/team1_scoreboard"
+            android:layout_gravity="center"
+            android:background="@drawable/scoreboard"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:longClickable="false"
+            android:textSize="50sp"
+            android:clickable="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="260dp"
+            android:layout_height="120dp"
+            android:text="Time: 000"
+            android:id="@+id/timer"
+            android:background="@drawable/timer"
+            android:textColor="#000"
+            android:textSize="55sp"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:layout_gravity="center"
+            android:layout_centerHorizontal="true"
+            android:textAlignment="center" />
+
+    </RelativeLayout>
+
+    <Button
+        android:onClick="categoryButton"
+        android:layout_width="240dp"
+        android:layout_height="120dp"
+        android:id="@+id/category_button"
+        android:background="@drawable/category_button_action"
+        android:textSize="50sp"
+        android:layout_gravity="right|bottom"
+        android:gravity="bottom|end"
+        android:textColor="#0072ff"
+        android:text="@string/category_button_text"
+        android:singleLine="false"
+        android:paddingBottom="30dp"
+        android:paddingRight="15dp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="190dp"
+        android:text="@string/hello"
+        android:id="@+id/screen"
+        android:layout_gravity="center|left"
+        android:background="@drawable/screen"
+        android:layout_marginTop="-120dp"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="#0072ff"
+        android:textSize="45sp"
+        android:textIsSelectable="false"
+        android:textStyle="bold"
+        android:elegantTextHeight="false" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:id="@+id/opt_button"
+        android:layout_gravity="left|bottom"
+        android:background="@drawable/settings_action"
+        android:clickable="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="5dp"
+        android:onClick="options" />
+
+    <Button
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/startinfo"
+        android:focusable="false"
+        android:background="@drawable/info_button_action"
+        android:onClick="startInfo"
+        android:layout_alignBottom="@+id/timer"
+        android:layout_toLeftOf="@+id/team1_scoreboard"
+        android:layout_toStartOf="@+id/team1_scoreboard"
+        android:layout_gravity="left|bottom"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="90dp" />
+
+    <ImageView
+        android:layout_width="315dp"
+        android:layout_height="315dp"
+        android:id="@+id/under"
+        android:layout_gravity="center"
+        android:background="@drawable/under"
+        android:layout_marginTop="170dp" />
+
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="300dp"
+        android:id="@+id/next_button"
+        android:layout_gravity="center"
+        android:background="@drawable/next_hot_action"
+        android:layout_marginTop="175dp"
+        android:layout_marginRight="-65dp"
+        android:text="N\nE\nX\nT"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:textColor="#ff7e00"
+        android:onClick="nextButton" />
+
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="300dp"
+        android:id="@+id/skip_button"
+        android:layout_gravity="center"
+        android:background="@drawable/skip_action"
+        android:layout_marginTop="175dp"
+        android:layout_marginRight="65dp"
+        android:text="S\nK\nI\nP"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:textColor="#6b0072"
+        android:onClick="skipButton" />
+
+    <Button
+        android:onClick="goButton"
+        android:layout_width="125dp"
+        android:layout_height="90dp"
+        android:text="GO!"
+        android:id="@+id/go_button"
+        android:layout_gravity="left|center_vertical"
+        android:layout_marginTop="340dp"
+        android:background="@drawable/go_button_action"
+        android:textColor="#9c0000"
+        android:layout_marginLeft="45dp"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:text="RESET"
+        android:id="@+id/reset_button"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="150dp"
+        android:textSize="40sp"
+        android:background="@drawable/small_button_action"
+        android:clickable="true"
+        android:onClick="reset" />
+
+
+</FrameLayout>

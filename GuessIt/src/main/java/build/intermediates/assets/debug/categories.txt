@@ -1,0 +1,1474 @@
+#Entertainment
+e#Interstellar (2014)
+e#The Godfather (1972)
+e#Raiders of the Lost Ark (1981)
+e#The Empire Strikes Back (1980)
+e#The Shawshank Redemption (1994)
+e#Jaws (1975)
+e#Goodfellas (1990)
+e#Apocalypse Now (1979)
+e#Singin' In the Rain (1952)
+e#Pulp Fiction (1994)
+e#Fight Club (1999)
+e#Raging Bull (1980)
+e#The Apartment (1960)
+e#Chinatown (1974)
+e#Once Upon a Time In the West (1968)
+e#The Dark Knight (2008)
+e#2001: A Space Odyssey (1968)
+e#Taxi Driver (1976)
+e#Casablanca (1942)
+e#The Godfather, Part II (1974)
+e#Blade Runner (1982)
+e#The Third Man (1949)
+e#Star Wars (1977)
+e#Back To the Future (1985)
+e#The Lord of the Rings: The Fellowship of the Ring (2001)
+e#The Good, the Bad, and the Ugly (1966)
+e#Some Like It Hot (1959)
+e#Citizen Kane (1941)
+e#Die Hard (1988)
+e#Aliens (1986)
+e#Gone With the Wind (1939)
+h#Butch Cassidy and the Sundance Kid (1969)
+e#Alien (1979)
+e#The Lord of the Rings: The Return of the King (2003)
+e#Terminator 2: Judgment Day (1991)
+e#Andrei Rublev (1966)
+e#A Clockwork Orange (1971)
+e#Heat (1995)
+e#The Matrix (1999)
+h#Vertigo (1958)
+h#The 400 Blows (1959)
+h#Kind Hearts and Coronets (1949)
+h#The Big Lebowski (1998)
+e#Schindler's List (1993)
+e#Psycho (1960)
+e#On the Waterfront (1954)
+e#E.T., the Extra-Terrestrial (1982)
+h#This Is Spinal Tap (1984)
+e#Evil Dead II (1987)
+e#The Seven Samurai (1954)
+h#8 1/2 (1963)
+e#The Shining (1980)
+h#Donnie Darko (2001)
+e#The Lord of the Rings: The Two Towers (2002)
+h#La Dolce Vita (1960)
+e#Casino Royale (2006)
+e#Lawrence of Arabia (1962)
+e#His Girl Friday (1940)
+h#Close Encounters of the Third Kind (1977)
+e#Come and See (1985)
+e#The Usual Suspects (1995)
+e#The Graduate (1967)
+e#Sunset Boulevard (1950)
+e#Oldboy (2003)
+h#Harold and Maude (1971)
+e#Edward Scissorhands (1990)
+e#Tokyo Story (1953)
+e#Annie Hall (1977)
+e#Red (1994)
+e#Stand By Me (1986)
+e#The Night of the Hunter (1955)
+e#12 Angry Men (1957)
+e#Eternal Sunshine of the Spotless Mind (2004)
+e#The Treasure of the Sierra Madre (1948)
+e#A Matter of Life and Death (1946)
+e#Manhattan (1979)
+e#Spartacus (1960)
+e#Rosemary's Baby (1968)
+e#The Thin Red Line (1998)
+h#The Life and Death of Colonel Blimp (1943)
+e#Batman Begins (2005)
+e#The Great Escape (1963)
+e#Brazil (1985)
+e#Blue Velvet (1986)
+e#Carrie (1976)
+e#The King of Comedy (1982)
+e#Ferris Bueller's Day Off (1986)
+e#Magnolia (1999)
+e#Return of the Jedi (1983)
+e#Once Upon a Time In America (1984)
+e#The Spirit of the Beehive (1973)
+e#The Wild Bunch (1969)
+h#Yojimbo (1961)
+e#American Beauty (1999)
+e#Reservoir Dogs (1992)
+e#North By Northwest (1959)
+e#Toy Story (1995)
+e#Network (1976)
+h#Raising Arizona (1987)
+e#The Hustler (1961)
+e#Rear Window (1954)
+e#The Rules of the Game (1939)
+h#One Flew Over the Cuckoo's Nest (1975)
+e#A Man For All Seasons (1966)
+h#An American Werewolf In London (1981)
+h#The Tree of Wooden Clogs (1978)
+e#Touch of Evil (1958)
+e#Before Sunset (2004)
+h#Fitzcarraldo (1982)
+h#I Am Cuba (1964)
+e#Anchorman: The Legend of Ron Burgundy (2004)
+e#The Conversation (1974)
+e#Blazing Saddles (1974)
+h#Rio Bravo (1959)
+h#Miller's Crossing (1990)
+h#Withnail & I (1987)
+e#The Wages of Fear (1953)
+h#The Battle of Algiers (1966)
+h#Los Olvidados (1950)
+e#The Princess Bride (1987)
+e#A Woman Under the Influence (1974)
+e#The Silence of the Lambs (1991)
+e#Breathless (1960)
+h#Pat Garrett and Billy the Kid (1973)
+e#The Sting (1973)
+e#Lost In Translation (2003)
+h#Harvey (1950)
+h#The Man Who Would Be King (1975)
+e#The Last of the Mohicans (1992)
+e#Pan's Labyrinth (2006)
+e#Double Indemnity (1944)
+e#Seven (1995)
+e#Duck Soup (1933)
+h#Amadeus (1984)
+h#Dances With Wolves (1990)
+e#Cool Hand Luke (1967)
+e#Blow Out (1981)
+e#As Good As It Gets (1997)
+e#Snow White and the Seven Dwarfs (1937)
+e#Almost Famous (2000)
+h#Cyrano De Bergerac (1990)
+e#There Will Be Blood (2007)
+h#Sophie's Choice (1982)
+e#Shampoo (1975)
+e#Notorious (1946)
+e#Z (1969)
+e#The Red Shoes (1948)
+h#The French Connection (1971)
+e#Gladiator (2000)
+e#Boogie Nights (1997)
+e#The Innocents (1961)
+e#Betty Blue (1986)
+e#Badlands (1973)
+e#Saving Private Ryan (1998)
+e#True Romance (1993)
+e#Unforgiven (1992)
+h#The Royal Tenenbaums (2001)
+e#Being There (1979)
+e#The Year of Living Dangerously (1982)
+e#A Nightmare On Elm Street (1984)
+e#The Bridge On the River Kwai (1957)
+e#The Searchers (1956)
+e#A Day In the Country (1936)
+e#Goldfinger (1964)
+e#Don't Look Now (1973)
+e#Tootsie (1982)
+h#Viridiana (1961)
+h#La Haine (1995)
+e#Brief Encounter (1945)
+e#The Wizard of Oz (1939)
+e#Memento (2000)
+e#Superman (1978)
+e#Rushmore (1998)
+h#A Canterbury Tale (1944)
+e#City of God (2002)
+h#Hellzapoppin' (1941)
+e#Toy Story 2 (1999)
+e#To Kill a Mockingbird (1962)
+e#Beyond the Valley of the Dolls (1970)
+e#Performance (1970)
+e#Le Samourai (1967)
+e#Dirty Harry (1971)
+e#Paths of Glory (1957)
+h#United 93 (2006)
+e#The Big Country (1958)
+e#The School of Rock (2003)
+e#Ghostbusters (1984)
+e#Big (1988)
+e#Brokeback Mountain (2005)
+e#Eraserhead (1977)
+e#Ed Wood (1994)
+e#The Bicycle Thief (1948)
+e#It's a Wonderful Life (1946)
+e#Amelie (2001)
+e#Point Break (1991)
+e#Fargo (1996)
+e#The Texas Chain Saw Massacre (1974)
+e#Before Sunrise (1995)
+e#JFK (1991)
+e#The Killer (1989)
+e#Life of Brian (1979)
+e#Bride of Frankenstein (1935)
+e#The Addiction (1995)
+e#The Exorcist (1973)
+e#The Misfits (1961)
+e#The Departed (2006)
+e#Local Hero (1983)
+e#Platoon (1986)
+e#Moulin Rouge! (2001)
+e#M (1931)
+e#Songs From the Second Floor (2000)
+e#Army of Shadows (1969)
+h#Jackie Brown (1997)
+e#Sunday Bloody Sunday (1971)
+e#The Magnificent Seven (1960)
+h#The Outlaw Josey Wales (1976)
+e#Far From Heaven (2002)
+e#Mother and Son (1997)
+e#Safe (1995)
+h#Distant Voices, Still Lives (1988)
+e#Get Carter (1971)
+e#Romeo + Juliet (1996)
+e#The Professional (1994)
+e#No Country For Old Men (2007)
+h#Festen (1998)
+h#Howl's Moving Castle (2004)
+e#Shaun of the Dead (2004)
+e#Jurassic Park (1993)
+e#Indiana Jones and the Temple of Doom (1984)
+e#The Bourne Ultimatum (2007)
+e#Battle Royale (2000)
+e#Black Narcissus (1947)
+e#Delicatessen (1991)
+e#Requiem For a Dream (2000)
+e#Cinema Paradiso (1988)
+e#Forrest Gump (1994)
+e#Brighton Rock (1947)
+e#King Kong (1933)
+h#Heimat (1984)
+e#Dazed and Confused (1993)
+e#Downfall (2004)
+e#The Philadelphia Story (1940)
+e#All That Jazz (1979)
+e#Pandora's Box (1929)
+e#My Darling Clementine (1946)
+h#Sunrise: A Song of Two Humans (1927)
+e#Darling (1965)
+e#The Leopard (1963)
+e#First Blood (1982)
+e#The Verdict (1982)
+e#Ninotchka (1939)
+e#Port of Shadows (1938)
+e#The Black Cat (1934)
+e#The Blues Brothers (1980)
+e#Groundhog Day (1993)
+e#Field of Dreams (1989)
+e#Roman Holiday (1953)
+e#The Virgin Suicides (1999)
+e#Das Boot (1981)
+e#American Graffiti (1973)
+e#Artificial Intelligence(2001)
+e#Ghost World (2001)
+e#Crimes and Misdemeanors (1989)
+e#The Lady Vanishes (1938)
+e#A Place In the Sun (1951)
+h#Pee-Wee's Big Adventure (1985)
+h#The Bird With the Crystal Plumage (1970)
+e#The Maltese Falcon (1941)
+e#Sin City (2005)
+e#My Neighbor Totoro (1988)
+e#Layer Cake (2004)
+e#On the Town (1949)
+e#Carlito's Way (1993)
+e#Animal House (1978)
+e#The Road Warrior (1981)
+e#Interview With the Vampire (1994)
+e#The Godfather, Part III (1990)
+e#Ran (1985)
+e#Scarface (1983)
+h#Solaris (1972)
+h#L'Avventura (1960)
+e#Secrets & Lies (1996)
+h#Who Framed Roger Rabbit? (1988)
+e#The Thing (1982)
+h#Rashomon (1950)
+h#Rocco and His Brothers (1960)
+e#Beauty and the Beast (1946)
+h#The Mother and the Whore (1973)
+e#The Red Balloon (1956)
+e#The Untouchables (1987)
+e#All the President's Men (1976)
+e#It Happened One Night (1934)
+h#Le Cercle Rouge (1970)
+e#The Palm Beach Story (1942)
+h#Sawdust and Tinsel (1953)
+e#Love and Death (1975)
+e#The Best Years of Our Lives (1946)
+e#Together (2000)
+e#Radio Days (1987)
+e#The Prestige (2006)
+e#Indiana Jones and the Last Crusade (1989)
+e#Midnight Cowboy (1969)
+e#The Terminator (1984)
+e#Transformers (2007)
+e#Gremlins (1984)
+e#American History X (1998)
+h#Suspiria (1977)
+e#Battleship Potemkin (1925)
+e#Sweet Smell of Success (1957)
+e#Sense and Sensibility (1995)
+e#Trainspotting (1996)
+e#Midnight Run (1988)
+e#Rebecca (1940)
+e#The Lion King (1994)
+e#Braveheart (1995)
+e#Funny Face (1957)
+e#Aladdin (1992)
+e#The Last Seduction (1994)
+e#Lone Star (1996)
+e#Kill Bill: Vole# 1 (2003)
+e#Out of Sight (1998)
+e#The Nightmare Before Christmas (1993)
+e#The Truman Show (1998)
+e#The Lives of Others (2006)
+e#Star Wars: Episode III - Revenge of the Sith (2005)
+e#The Green Mile (1999)
+e#The Sixth Sense (1999)
+e#Grease (1978)
+e#The Magnificent Ambersons (1942)
+e#The Seventh Seal (1957)
+e#Titanic (1997)
+e#300 (2006)
+e#Jules and Jim (1962)
+e#Spirited Away (2001)
+e#High and Low (1963)
+e#The Passenger (1975)
+e#The Gold Rush (1925)
+e#Monsters, Inc. (2001)
+e#The Last Waltz (1978)
+e#Fatal Attraction (1987)
+e#Leave Her To Heaven (1945)
+e#All About Eve (1950)
+h#Au Hasard Balthazar (1966)
+e#Arthur (1981)
+e#Planet of the Apes (1968)
+e#Zulu (1964)
+e#Unfaithfully Yours (1948)
+h#Bugsy Malone (1976)
+h#Un Chien Andalou (1929)
+e#Sunshine (2007)
+e#Napoleon (1927)
+e#The Long Goodbye (1973)
+e#Russian Ark (2002)
+e#The Lady Eve (1941)
+e#The Return (2003)
+e#Clerks (1994)
+e#The Elephant Man (1980)
+e#Good Morning, Vietnam (1987)
+e#Natural Born Killers (1994)
+e#The Bourne Identity (2002)
+e#Predator (1987)
+e#Cabaret (1972)
+e#Airplane! (1980)
+e#The Breakfast Club (1985)
+e#Rocky (1976)
+e#Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+e#Army of Darkness (1992)
+e#WALL-E (2008)
+e#Hot Fuzz (2007)
+e#Four Weddings and a Funeral (1994)
+e#Zodiac (2007)
+e#Mean Streets (1973)
+e#The Goonies (1985)
+e#Ratatouille (2007)
+e#Children of Men (2006)
+e#Monty Python and the Holy Grail (1975)
+e#Cache (2005)
+e#Serenity (2005)
+e#The Shop Around the Corner (1940)
+e#Ace In the Hole (1951)
+e#The Great Silence (1968)
+e#Rain Man (1988)
+e#The English Patient (1996)
+e#Election (1999)
+e#2 Days In Paris (2007)
+e#Mulholland Drive (2001)
+e#Paris, Texas (1984)
+e#Garden State (2004)
+e#Cloverfield (2008)
+e#Casino (1995)
+e#Night of the Living Dead (1968)
+e#Killer of Sheep (1977)
+e#Greed (1924)
+e#The Incredibles (2004)
+e#Batman Returns (1992)
+e#Little Miss Sunshine (2006)
+e#Do the Right Thing (1989)
+e#Robocop (1987)
+e#Dirty Dancing (1987)
+e#Iron Man (2008)
+e#The Jungle Book (1967)
+e#Zelig (1983)
+e#Men In Black (1997)
+e#A Hard Day's Night (1964)
+e#Spider-Man 2 (2004)
+h#Heathers (1989)
+e#Finding Nemo (2003)
+e#The Double Life of Veronique (1991)
+e#Dawn of the Dead (1978)
+e#Bad Taste (1987)
+e#Lords of Dogtown (2005)
+e#V For Vendetta (2006)
+e#Days of Heaven (1978)
+e#Jerry Maguire (1996)
+e#Lethal Weapon (1987)
+e#A Man Escaped (1956)
+e#Kill Bill: Vole# 2 (2004)
+e#To Have and Have Not (1944)
+e#Wonder Boys (2000)
+e#Enduring Love (2004)
+e#Spring In a Small Town (1948)
+h#The Enigma of Kaspar Hauser (1974)
+h#Diabolik (1968)
+e#Big Trouble In Little China (1986)
+e#Electra Glide In Blue (1973)
+e#X2: X-Men United (2003)
+e#Good Will Hunting (1997)
+e#The Cat Concerto (1947)
+e#American Psycho (2000)
+e#Beauty and the Beast (1991)
+e#Spider-Man (2002)
+e#The Lost Boys (1987)
+e#Akira (1988)
+h#Being John Malkovich (1999)
+e#Dog Day Afternoon (1975)
+e#Hairspray (1988)
+e#Dumb and Dumber (1994)
+e#High Fidelity (2000)
+e#Ten (2002)
+e#A History of Violence (2005)
+e#Star Wars: Episode I - The Phantom Menace (1999)
+e#King Kong (2005)
+e#Speed (1994)
+e#Unbreakable (2000)
+e#Indiana Jones and the Kingdom of the Crystal Skull (2008)
+e#The Bourne Supremacy (2004)
+e#Top Gun (1986)
+e#28 Days Later (2002)
+e#Full Metal Jacket (1987)
+e#Batman (1989)
+h#Ikiru (1952)
+e#Crash (2005)
+e#Halloween (1978)
+e#Dead Man's Shoes (2004)
+e#Juno (2007)
+e#Seven Brides For Seven Brothers (1954)
+e#Twelve Monkeys (1995)
+e#Snatche# (2000)
+e#The Deer Hunter (1978)
+e#The Crow (1994)
+e#Fear and Loathing In Las Vegas (1998)
+e#Glengarry Glen Ross (1992)
+e#Harry Potter and the Prisoner of Azkaban (2004)
+e#Le Doulos (1962)
+e#Into the Wild (2007)
+e#Enter the Dragon (1973)
+e#Pirates of the Caribbean: Dead Man's Chest (2006)
+e#The Secret Life of Walter Mitty (2014)
+e#The Son's Room (2001)
+h#Topsy-Turvy (1999)
+e#Scream (1996)
+e#The Big Red One (1980)
+e#The Fountain (2006)
+e#Breakfast At Tiffany's (1961)
+e#Superbad (2007)
+e#Sideways (2004)
+e#Jailhouse Rock (1957)
+e#Superman Returns (2006)
+e#Crouching Tiger, Hidden Dragon (2000)
+e#Back To the Future, Part II (1989)
+e#Saw (2004)
+e#Ocean's Eleven (2001)
+e#Last Samurai (2003)
+e#Batman Begins (2005)
+e#Million Dollar Baby (2004)
+-----------------------------------------------------------Actors
+e#Adam Sandler 
+e#Al Pacino 
+e#Alec Baldwin 
+e#Arnold Schwarzenegger 
+e#Ben Affleck 
+e#Ben Stiller  
+e#Bill Clinton 
+e#Bill Cosby 
+e#Bill Murray 
+e#Brad Pitt 
+e#Bruce Willis 
+e#Burt Reynolds 
+e#Charlie Chaplin 
+e#Charlie Sheen 
+e#Chris Rock 
+e#Chris Tucker 
+e#Christian Bale 
+h#Christian Slater 
+h#Christopher Lambert 
+h#Christopher Walkin 
+e#Chuck Norris 
+e#Clint Eastwood 
+e#Danny Devito 
+e#Denzel Washington 
+h#Ed Burns 
+e#Eddie Murphy 
+h#Edward Norton 
+h#Elijah Wood 
+e#Elvis 
+e#Ethan Hawke 
+e#Frank Sinatra 
+h#Gary Oldman 
+e#George Clooney 
+e#Harrison Ford 
+e#Hugh Jackman
+e#Jack Nicholson 
+e#Jackie Chan 
+e#James Garner 
+e#Jamie Foxx 
+e#Jared Leto 
+e#Jean-Claude Van Damme 
+e#Jeff Goldblum 
+e#Jerry Seinfeld 
+e#Jim Carrey 
+h#John Wayne 
+e#Johnny Depp 
+e#Keanu Reeves 
+e#Kevin Bacon 
+e#Kevin Smith 
+e#Kevin Spacey 
+e#Leonardo Dicaprio 
+e#Liam Neeson 
+h#LL Cool J 
+e#Matt Damon 
+e#Matthew McConaughey 
+e#Mel Gibson 
+e#Michael J. Fox 
+e#Michael Keaton 
+e#Mike Myers 
+e#Morgan Freeman 
+e#Nicolas Cage 
+e#Patrick Stewart 
+h#Patrick Swayze 
+e#Paul Rudd 
+e#Quenton Tarantino 
+e#Robert DeNiro
+e#Robert Downey Jr. 
+e#Robert Duvall
+e#Robin Williams
+e#Russell Crowe
+e#Ryan Reynolds
+h#Sam Shepard
+e#Samuel L. Jackson
+e#Sylvester Stallone
+e#Vince Vaungh
+e#Weird Al Yancovic
+e#Wesley Snipes
+e#Will Smith
+e#Woody Allen
+------------------------------------------------------Fictional
+e#Saruman
+e#Bilbo
+e#Legolas
+e#Sauron
+e#Obi Wan Kenobi
+e#Voldemort
+e#Darth vader
+e#Luke Skywalker
+e#Princess Leia
+e#Dumbledore
+e#Severus Snape
+e#Hermione Granger
+e#Ron Weasley
+e#Truman
+e#Nathan Drake 
+e#Kratos
+e#Niko Bellic
+e#Hancock
+e#Napoleon Dynamite
+e#Tony Stark
+h#Kara Starbuck
+h#Det. Alonzo
+e#Borat
+e#Maximus from Gladiator
+h#John Locke
+h#Jimmy Corrigan
+h#Vic Mackey
+h#Mary Jones
+e#Master Chief
+h#Thelma and Louise
+h#Clayton Bigsby
+e#Barney Stinson
+h#Tracy Jordan
+e#Juno
+e#Edward Cullen
+h#Annie Wilkes
+h#Omar Little
+h#Pearl the Landlord
+h#Vivian Ward
+e#Red from Shawshank Redemption
+h#Corky St. Clair
+e#Jerry Maguire
+e#Stewie Griffin
+h#Jack Bauer
+h#Sydney Bristow
+e#Harold and Kumar
+e#Ron Burgundy
+h#Gob Bluth
+e#Elmo
+h#Keyser Söze
+e#Gollum
+e#Dexter
+h#Cher
+e#Sarah Connor
+e#Beavis
+e#Butt-Head
+e#Forrest Gump
+e#Stephen Colbert
+e#Vincent Vega
+h#Jules Winnfield
+h#Madea
+h#Frasier
+h#Kavalier and Clay
+e#Woody from Toy Story
+h#Felicity Porter
+e#Austin Powers
+e#Eric Cartman
+e#Roseanne Conner
+h#Ally McBeal
+e#Morpheus
+e#Sue Sylvester
+e#Lara Croft
+h#Bridget Jones
+e#Shrek
+h#Jeff (The Dude) Lebowski
+e#Jack Sparrow
+h#Fox Mulder
+h#Dana Scully
+e#Cosmo Kramer
+e#SpongeBob SquarePants
+e#Hannibal Lecter
+e#Edward Scissorhands
+e#Rachel Green
+e#The Joker
+e#Tony Soprano
+e#Buffy
+e#Harry Potter
+e#Homer Simpson
+#History#--------------------------------------------------------
+e#Taj Mahal
+e#Great Pyramid of Giza
+e#Colosseum
+e#Great Wall of China
+h#Machu Picchu
+e#Great Sphinx of Giza
+e#Eiffel Tower
+e#Stonehenge
+h#Acropolis of Athens
+e#Sistine Chapel
+e#Grand Canyon National Park
+h#Great Barrier Reef
+e#Nigra Falls
+e#Leaning Tower of Pisa
+e#Patheon
+h#St. Peter's Basilica
+h#Versilles
+h#Angkor Wat
+e#Statue of Liberty
+e#Forbidden City
+h#Neuschwanstein Castle
+h#Parethenon
+h#Westminster Abbey
+e#Sydney Opera House
+h#Terracotta Army
+e#Mount Rushmore National Memorial
+e#Tower of London
+e#Yellowstone National Park
+e#Buckingham Palace
+h#Chichen Itza
+h#Moscow Kremlin
+e#Grand Canal
+e#White House
+e#Gettysburg
+e#Santorini 
+e#The Louvre
+e#Saint Basil's Cathedral
+h#Edinburgh Castle
+h#Piazza San Marco
+e#Ephesus
+h#Cristo Redentor
+e#Big Ben
+e#The Last Supper
+h#Medina
+e#Kaaba
+h#Basilica of Sacre Coeur
+h#Saint Mark's Basilica
+----------------------------------------------History Disasters
+e#Gladiatorial Games
+e#Hundred Years War
+e#Napoleonic Wars
+e#Fall of Rome
+e#Fall of the Yuan Dynasty
+e#First World War
+e#Stalin
+e#Genghis Khan
+e#Second World War
+--------------------------------------------------History People
+e#Jesus
+e#Napoleon
+e#Muhammad
+e#William Shakespeare
+e#Abraham Lincoln
+e#George Washington
+e#Adolf Hitler
+e#Aristotle
+e#Alexander the Great
+e#Thomas Jefferson
+e#Henry VIII of England
+e#Charles Darwin
+h#Elizabeth I of England
+e#Karl Marx
+e#Julius Caesar
+e#Queen Victoria
+e#Martin Luther
+e#Joseph Stalin
+e#Albert Einstein
+e#Christopher Columbus
+e#Isaac Newton
+h#Charlemagne
+e#Theodore Roosevelt
+e#Wolfgang Amadeus Mozart
+e#Plato
+h#Louis XIV of France
+e#Ludwig van Beethoven
+h#Ulysses S. Grant
+e#Leonardo da Vinci
+h#Augustus
+h#Carl Linnaeus
+e#Ronald Reagan
+e#Charles Dickens
+h#Paul the Apostle
+e#Benjamin Franklin
+e#George W. Bush
+e#Winston Churchill
+e#Genghis Khan
+h#Charles I of England
+e#Thomas Edison
+h#James I of England
+h#Friedrich Nietzsche
+e#Franklin D. Roosevelt
+e#Sigmund Freud
+e#Alexander Hamilton
+e#Mohandas Karamchand Gandhi
+e#Woodrow Wilson
+h#Johann Sebastian Bach
+e#Galileo Galilei
+h#Oliver Cromwell
+h#James Madison
+e#Gautama Buddha
+e#Mark Twain
+h#Edgar Allan Poe
+h#Joseph Smith, Jr.
+e#Adam Smith
+e#David, King of Israel
+h#George III of the United Kingdom
+h#Immanuel Kant
+e#James Cook
+h#John Adams
+e#Richard Wagner
+h#Pyotr Ilyich Tchaikovsky
+e#Voltaire
+e#Saint Peter
+e#Andrew Jackson
+h#Constantine the Great
+e#Socrates
+e#Elvis Presley
+e#William the Conqueror
+e#John F. Kennedy
+h#Augustine of Hippo
+e#Vincent van Gogh
+e#Nicolaus Copernicus
+e#Vladimir Lenin
+h#Robert E. Lee
+e#Oscar Wilde
+h#Charles II of England
+e#Cicero
+e#Jean-Jacques Rousseau
+e#Francis Bacon
+e#Richard Nixon
+h#Louis XVI of France
+h#Charles V, Holy Roman Emperor
+e#King Arthur
+e#Michelangelo
+e#Philip II of Spain
+e#Johann Wolfgang von Goethe
+e#Thomas Aquinas
+e#Pope John Paul II
+e#René Descartes
+e#Nikola Tesla
+h#Harry S. Truman
+e#Joan of Arc
+e#Dante Alighieri
+e#Otto von Bismarck
+e#Grover Cleveland
+e#John Calvin
+e#John Locke
+#Science#--------------------------------------------------------
+h#Asclepius
+h#Hippocrates
+e#Aristotle
+e#Roger Bacon
+e#Leonardo da Vinci
+e#Nicolaus Copernicus
+e#Galileo
+e#Sir Isaac Newton
+e#Michael Faraday
+e#Charles Darwin
+e#Sigmund Freud
+e#Albert Einstein
+e#Alfred Lothar Wegener
+e#Sir Alexander Fleming
+e#Niels Bohr 
+e#Erwin Schrodinger
+e#Edwin Powell Hubble
+e#Alan M. Turing
+-----------------------------------------------------Achievements
+e#Video keyhole surgery
+e#Insulin
+e#Laptop computer
+e#Global Positioning Satellites
+e#GMO's
+e#CGI
+e#International Space Station
+e#Iris
+e#Hurricane
+e#Earthquake
+e#Volcanic eruption
+e#Tornado
+e#Tsunami
+e#Flood
+e#Landslide 
+e#Avalanche
+e#Drought
+e#Wildfire
+e#Water
+e#Oxygen
+e#Stratosphere
+e#Black Hole
+e#Absolute zero
+e#Acceleration
+e#Acid
+e#Solution
+e#Activation energy
+e#Reaction
+h#Adiabatic system
+e#Alcohol
+e#Perfumes
+e#Alkali
+e#Allele
+h#Allotrope
+e#Alloy
+e#Elements
+e#Amino acids
+e#Atomic number
+e#Atomic symbol
+e#Atomic weight
+e#Atoms
+e#Base
+h#Biosynthesis
+e#Boiling point
+e#Bond
+e#Capacitance
+e#Carbohydrates
+e#Animals
+e#Carbon
+e#Catalyst
+e#Cation
+e#Cell
+e#Chain reaction
+e#Charge
+e#Chemical equation
+e#Chemical reaction
+e#Chemical 
+e#Chromosomes
+e#Compound
+e#Conduction
+e#Convection
+h#Coulomb attraction
+e#Covalent bond
+e#Crystal
+e#Cytosol
+e#Density
+e#Diffraction
+e#Diffusion
+e#Elasticity
+e#Electric current
+e#Electrons
+e#Electromagnetic waves
+e#Electrolyte
+e#Element
+e#Endothermic reaction
+e#Energy
+e#Entropy
+e#Equilibrium
+e#Evaporation
+e#Evolution
+e#Exothermic reaction
+e#Fats
+e#Fecundity
+e#Field
+e#Fission
+e#Fluid
+e#Force
+e#Motion
+h#Free radical
+e#Frequency
+e#Friction
+e#Fusion
+e#Liquid
+e#Gametes
+h#Gauge bosons
+e#Gene
+e#Genome
+e#Gravity
+e#Hadrons
+e#Half-life
+e#Halogen
+e#Heat
+e#Hydrocarbon
+e#Atoms
+e#Ideal gas
+e#Pressures
+e#Inertia
+h#Inheritance
+e#Ion
+e#Ionic bond
+h#Isomer
+h#Isomeric structure
+e#Isotope
+e#Kinetic energy
+h#Latent heat
+h#Leptons
+e#Light
+e#Magnet
+e#Mass
+h#Mesons
+e#Metals
+e#Molecule
+e#Moment
+e#Momentum
+h#Monomers
+e#Neutralization
+e#Neutrons
+h#Quarkhadrons
+e#Newtons Laws of Motion
+e#Noble gases
+e#Nucleus
+e#Ozone
+e#PH Scale
+e#Photo-synthesis
+e#Photons
+e#Polymers
+e#Potential difference
+e#Potential energy
+e#Power
+e#Products
+e#Proteins
+e#Protons
+e#Quantum theory
+e#Radiation
+h#Radioactivity
+e#Nuclei
+e#Reactants
+e#Refraction
+e#Relative atomic mass
+e#Relativity
+e#Reproduction
+e#Resistance
+e#Resonance
+e#Respiration
+e#Glucose
+e#Scalar
+e#Special relativity
+e#Speciation
+e#Specific heat
+e#Standard model
+e#Fundamental particles
+e#Strain
+e#Stress
+e#Temperature
+e#Torque
+e#Force
+e#Uncertainty
+e#Valency
+e#Vector
+e#Direction
+e#Velocity
+e#Viscosity
+e#Weight
+e#Work
+e#Zygote
+#Sports#---------------------------------------------------------
+e#Sky Diving
+e#Archery
+e#Base-Ball
+e#Cricket
+e#Volleyball
+e#Baton twirling
+e#Board sports
+e#Climbing
+e#Cycling
+e#Skibob
+e#Pool
+e#Swimming
+e#Diving
+e#Fishing
+e#Flying disc sports
+e#Football
+e#Golf
+e#Gymnastics
+e#Handball
+e#Hunting
+e#Ice sports
+e#Racquet sports
+e#Running
+e#Sailing
+e#Skiing
+e#Sleding
+e#Hockey
+e#Hurling and shinty
+e#Lacrosse
+e#Polo
+e#Canoeing
+e#Kayaking
+e#Rafting
+e#Rowing
+e#Weightlifting
+e#Auto racing
+e#Motorboat racing
+e#Motorcycle racing
+e#ATV racing
+e#Speedcubing
+--------------------------------------------------------Atheletes
+e#Michael Jordan
+h#Babe Ruth
+e#Muhammad Ali
+e#Jim Brown
+e#Wayne Gretzky
+h#Jesse Owens
+h#Jim Thorpe
+h#Willie Mays
+h#Jack Nicklaus	
+h#Babe Zaharias
+h#Joe Louis
+e#Carl Lewis
+e#Wilt Chamberlain
+h#Hank Aaron
+e#Jackie Robinson
+h#Ted Williams
+e#Magic Johnson
+h#Bill Russell
+h#Martina Navratilova
+h#Ty Cobb
+h#Gordie Howeice
+h#Joe DiMaggio
+h#Jackie Joyner-Kersee
+e#Sugar Ray Robinson
+e#Joe Montana
+e#Kareem Abdul-Jabbar
+e#Jerry Rice
+h#Red Grange
+h#Arnold Palmer
+e#Larry Bird
+h#Bobby Orrice
+h#Johnny Unitas
+e#Mark Spitz
+e#Lou Gehrig
+h#Secretariat
+e#Oscar Robertson
+h#Mickey Mantle
+h#Ben Hogangolf
+h#Walter Payton
+h#Lawrence Taylor
+h#Wilma Rudolph
+h#Sandy Koufax
+h#Julius Erving
+h#Bobby Jones
+e#Bill Tilden
+h#Eric Heiden
+h#Edwin Moses
+e#Pete Sampras
+e#O J Simpson
+h#Chris Evert
+e#Rocky Marciano
+h#Jack Dempsey
+h#Rafer Johnson
+h#Greg Louganis
+h#Mario Lemieux
+h#Pete Rose
+h#Bill Shoemaker
+h#Elgin Baylor
+e#Billie Jean King
+e#Walter Johnson
+h#Stan Musial
+e#Jerry West
+h#Satchel Paige
+h#Sammy Baugh
+e#Althea Gibson
+e#Eddie Arcaro
+e#Bob Gibson
+h#Al Oerter
+e#Bonnie Blair
+h#Dick Butkus
+h#Roberto Clemente
+h#Bo Jackson
+h#Josh Gibson
+h#Deion Sanders
+h#Dan Marino
+h#Barry Sanders
+h#Cy Young
+h#Bob Mathias
+h#Gale Sayers
+h#A J Foyt
+h#Jimmy Connors
+h#Bobby Hull
+h#Honus Wagner
+h#Man o' War
+h#Maurice Richard	
+h#Otto Graham
+h#Henry Armstrong
+h#Joe Namath
+h#Rogers Hornsby
+h#Richard Petty
+h#Bob Beamon
+h#Mario Andretti
+h#Don Hutson
+h#Bob Cousy
+h#George Blanda
+h#Michael Johnson
+h#Don Budge
+h#Sam Snead
+h#Jack Johnson
+#Geography#-------------------------------------------------
+e#Afghanistan
+e#Albania
+e#Algeria
+e#Andorra
+e#Angola
+e#Antigua and Barbuda
+e#Argentina
+e#Armenia
+e#Aruba
+e#Australia
+e#Austria
+e#Azerbaijan
+e#Bahamas
+e#Bahrain
+e#Bangladesh
+e#Barbados
+e#Belarus
+e#Belgium
+e#Belize
+e#Benin
+e#Bhutan
+e#Bolivia
+e#Bosnia and Herzegovina
+e#Botswana
+e#Brazil
+e#Brunei 
+e#Bulgaria
+e#Burkina Faso
+e#Burma
+e#Burundi
+e#Cambodia
+e#Cameroon
+e#Canada
+e#Cape Verde
+e#Central African Republic
+e#Chad
+e#Chile
+e#China
+e#Colombia
+e#Comoros
+e#Congo, Democratic Republic of the
+e#Congo, Republic of the
+e#Costa Rica
+e#Cote d'Ivoire
+e#Croatia
+e#Cuba
+e#Curacao
+e#Cyprus
+e#Czech Republic
+e#Denmark
+e#Djibouti
+e#Dominica
+e#Dominican Republic
+e#East Timor
+e#Ecuador
+e#Egypt
+e#El Salvador
+e#Equatorial Guinea
+e#Eritrea
+e#Estonia
+e#Ethiopia
+e#Fiji
+e#Finland
+e#France
+e#Gabon
+e#Gambia
+e#Georgia
+e#Germany
+e#Ghana
+e#Greece
+e#Grenada
+e#Guatemala
+e#Guinea
+e#Guinea-Bissau
+e#Guyana
+e#Haiti
+e#Holy See
+e#Honduras
+e#Hong Kong
+e#Hungary
+e#Iceland
+e#India
+e#Indonesia
+e#Iran
+e#Iraq
+e#Ireland
+e#Israel
+e#Italy
+e#Jamaica
+e#Japan
+e#Jordan
+e#Kazakhstan
+e#Kenya
+e#Kiribati
+e#Korea, North
+e#Korea, South
+e#Kosovo
+e#Kuwait
+e#Kyrgyzstan
+e#Laos
+e#Latvia
+e#Lebanon
+e#Lesotho
+e#Liberia
+e#Libya
+e#Liechtenstein
+e#Lithuania
+e#Luxembourg
+e#Macau
+e#Macedonia
+e#Madagascar
+e#Malawi
+e#Malaysia
+e#Maldives
+e#Mali
+e#Malta
+e#Marshall Islands
+e#Mauritania
+e#Mauritius
+e#Mexico
+e#Micronesia
+e#Moldova
+e#Monaco
+e#Mongolia
+e#Montenegro
+e#Morocco
+e#Mozambique
+e#Namibia
+e#Nauru
+e#Nepal
+e#Netherlands
+e#Netherlands Antilles
+e#New Zealand
+e#Nicaragua
+e#Niger
+e#Nigeria
+e#North Korea
+e#Norway
+e#Oman
+e#Pakistan
+e#Palau
+e#Palestinian Territories
+e#Panama
+e#Papua New Guinea
+e#Paraguay
+e#Peru
+e#Philippines
+e#Poland
+e#Portugal
+e#Qatar
+e#Romania
+e#Russia
+e#Rwanda
+e#Saint Kitts and Nevis
+e#Saint Lucia
+e#Saint Vincent and the Grenadines
+e#Samoa 
+e#San Marino
+e#Sao Tome and Principe
+e#Saudi Arabia
+e#Senegal
+e#Serbia
+e#Seychelles
+e#Sierra Leone
+e#Singapore
+e#Sint Maarten
+e#Slovakia
+e#Slovenia
+e#Solomon Islands
+e#Somalia
+e#South Africa
+e#South Korea
+e#South Sudan
+e#Spain 
+e#Sri Lanka
+e#Sudan
+e#Suriname
+e#Swaziland 
+e#Sweden
+e#Switzerland
+e#Syria
+e#Taiwan
+e#Tajikistan
+e#Tanzania
+e#Thailand 
+e#Timor-Leste
+e#Togo
+e#Tonga
+e#Trinidad and Tobago
+e#Tunisia
+e#Turkey
+e#Turkmenistan
+e#Tuvalu
+e#Uganda
+e#Ukraine
+e#United Arab Emirates
+e#United Kingdom
+e#Uruguay
+e#Uzbekistan
+e#Vanuatu
+e#Venezuela
+e#Vietnam
+e#Yemen
+e#Zambia
+e#Zimbabwe
+#Household#----------------------------------------------------
+e#Calendar 
+e#Hot water
+e#Paint
+e#Tennis shoes
+e#Magnets desk
+e#Hairspray 
+e#Printer 
+e#Paper 
+e#Trash can
+e#Washing machine 
+e#Cell phone charger 
+e#Sweater vest
+e#Shoes 
+e#Button 
+e#Hand soap
+e#Toilet paper 
+e#Dryer sheets 
+e#Piano
+e#Mirror 
+e#Crayons 
+e#T-shirt
+e#Picture frame 
+e#Skirt
+e#Speakers
+e#Garage 
+e#Doormat
+e#Garden hose 
+e#Spice rack 
+e#Quilt
+e#Stapler 
+e#Camera 
+e#Sress shirt
+e#Sweater 
+e#Cell phone 
+e#Umbrella
+e#Hand lotion 
+e#Towel banister
+e#Boots 
+e#Red wagon 
+e#Ironing board
+e#Shampoo 
+e#Books 
+e#Baseboards
+e#Bicycle 
+e#Blue jeans 
+e#Socks
+e#Skateboard 
+e#Vest 
+e#Sunglasses
+e#Headband 
+e#Scissors 
+e#Light switch
+e#Magazine 
+e#Markers 
+e#Pillowcase
+e#Sofa 
+e#Scarf 
+e#Ladder
+e#Chimney 
+e#Watering can 
+e#Crib
+e#Laundry detergent 
+e#Dustpan
+e#purse
+e#Mailbox 
+e#Jewelry 
+e#Front porch
+e#Newspaper 
+e#Fake flowers 
+e#Pantry
+e#Eraser 
+e#Iron 
+e#Doorway
+e#Rocking chair 
+e#Ceiling fan 
+e#Door knob
+e#Paperclip 
+e#Electrical outlet 
+e#DVDs
+e#Bowtie 
+e#Windex 
+e#Necktie
+e#TV 
+e#Porch
+e#Silverware
+e#Shovel 
+e#iPod 
+e#Junk 
+e#Drawer
+e#Loveseat 
+e#Bed 
+e#Vase
+e#Lunchbox 
+e#Hair dryer 
+e#Ballpoint pen
+e#Photograph 
+e#Cleaning spray 
+e#Curtains 
+e#Sponge 
+e#Dog leash
+e#Batteries 
+e#Shoes 
+e#Candle
+e#Kitchen knife 
+e#Living room 
+e#Bathroom scale
+e#Broom 
+e#Letter opener 
+e#Bedroom
+e#Laundry basket 
+e#Computer 
+e#Stairs
+e#Internet 
+e#Shower curtain 
+e#Video camera
+e#Home movies 
+e#Wallet 
+e#Stamps

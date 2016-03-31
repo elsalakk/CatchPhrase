@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CatchPhrase</string>
+
+    <string name="title_activity_catch_phrase">GuessIt</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="happy_yes_button">Yes</string>
+    <string name="title">Guess It</string>
+    <string name="team1_text">Team 1</string>
+    <string name="team2_text">Team 2</string>
+    <string name="next_button_text">Next</string>
+    <string name="category_button_text">Category</string>
+    <string name="go_button">GO!</string>
+    <string name="hello">Hello!</string>
+    <string name="skip">Skip</string>
+    <string name="Instr1">Have everyone divide up into two teams. It’s best to alternate players in a circle so each player is next to a member of the other team. Each player needs to be able to pass the Catch Phrase game unit to a member of the other team as quickly as possible. Pick a team to start (that will be Team 1) and a player on that team to go first. Give the phone to that player.</string>
+    <string name="Instructions_title">Instructions</string>
+    <string name="toy_body">Toy Body</string>
+    <string name="advert">ca-app-pub-5782977969817126/5312151695</string>
+    <string name="dictionaryDir">Enter a file name without extension</string>
+    <string name="user_dictioary_title">User Dictionary</string>
+    <string name="user_goSound_title">Go Sound</string>
+    <string name="enterMp3Hint">Enter a file name without extension</string>
+    <string name="exampleDictionary">Example Dictionary:\n---------------------------------\n#Entertainment\ne#Batman\nh#The Russian Ark\n#History\ne#Alex the Great</string>
+    <string name="dicInstructions">Begin category title with #\n Place phrases below it, beging with an e# for easy phrase and h# for hard phrases, you can append to existing categorys or create new ones.\n Place the txt file on your sd card or internal storage, inside a folder you should creat called catchphrase in root.</string>
+    <string name="difficulty">Phrase Difficulty</string>
+</resources>

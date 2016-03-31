@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:id="@+id/game_mode">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Game Mode:"
+        android:id="@+id/game_mode_text"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffffff"
+        android:textSize="60sp"
+        android:layout_marginTop="5dp" />
+
+    <Button
+        android:layout_width="210dp"
+        android:layout_height="120dp"
+        android:text="HOT POTATO!"
+        android:id="@+id/hotPotato"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/potato_action"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffea00"
+        android:textSize="27sp"
+        android:onClick="hotPotatButton"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Pass the phone around alternating teams each pass. The team not holding the phone when the buzzer goes off gets the point. Always strart with team 1."
+        android:id="@+id/textView2"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffffff"
+        android:paddingLeft="5dp"
+        android:paddingRight="1dp"
+        android:textSize="30sp" />
+
+    <Button
+        android:layout_width="210dp"
+        android:layout_height="120dp"
+        android:text="TOP SCORE!"
+        android:id="@+id/topScore"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/score_button_action"
+        android:textColor="#ffea00"
+        android:textSize="28sp"
+        android:onClick="topScButton"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="You&apos;ll get a point per correct guess, get 2 free skips per round then will loose a point per skip. The team with the most points at the end wins."
+        android:id="@+id/textView4"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffffff"
+        android:paddingLeft="5dp"
+        android:paddingRight="1dp"
+        android:textSize="30sp" />
+
+    <Button
+        android:layout_width="210dp"
+        android:layout_height="120dp"
+        android:text="CUSTOM!"
+        android:id="@+id/custom"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/custom_action"
+        android:layout_marginTop="5dp"
+        android:textColor="#9c0000"
+        android:textSize="35sp"
+        android:onClick="custButton"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Make your own game! Create your own scoring scheme. Free play!"
+        android:id="@+id/textView5"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffffff"
+        android:paddingLeft="5dp"
+        android:paddingRight="1dp"
+        android:textSize="30sp" />
+
+</LinearLayout>

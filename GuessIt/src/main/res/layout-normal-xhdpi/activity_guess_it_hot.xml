@@ -1,0 +1,181 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:keepScreenOn="true"
+    android:id="@+id/main_screen">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/body"
+        android:layout_gravity="left|center_vertical"
+        android:background="@drawable/body"
+        android:contentDescription="@string/toy_body"
+        android:layout_marginLeft="0dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|top"
+        android:id="@+id/ad_scoreboard">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="75dp"
+            android:id="@+id/imageView"
+            android:layout_alignTop="@+id/team2_scoreboard"
+            android:layout_toStartOf="@+id/team2_scoreboard"
+            android:background="@drawable/scoreboard"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="65dp"
+            android:layout_height="75dp"
+            android:text="0"
+            android:id="@+id/team2_scoreboard"
+            android:layout_gravity="right|top"
+            android:background="@drawable/scoreboard"
+            android:gravity="center"
+            android:textSize="40sp"
+            android:textColor="#ffffff"
+            android:longClickable="false"
+            android:singleLine="true"
+            android:clickable="false"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="65dp"
+            android:layout_height="75dp"
+            android:text="0"
+            android:id="@+id/team1_scoreboard"
+            android:layout_gravity="center"
+            android:background="@drawable/scoreboard"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:longClickable="false"
+            android:textSize="40sp"
+            android:clickable="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:text="Time: 000"
+            android:id="@+id/timer"
+            android:background="@drawable/timer"
+            android:textColor="#000"
+            android:textSize="40sp"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:layout_gravity="center"
+            android:layout_centerHorizontal="true"
+            android:textAlignment="center" />
+
+    </RelativeLayout>
+
+    <Button
+        android:onClick="categoryButton"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:id="@+id/category_button"
+        android:background="@drawable/category_button_action"
+        android:textSize="35sp"
+        android:layout_gravity="right|bottom"
+        android:gravity="bottom|end"
+        android:textColor="#0072ff"
+        android:text="@string/category_button_text"
+        android:singleLine="false"
+        android:paddingBottom="15dp"
+        android:paddingRight="15dp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:onClick="nextButton"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:text="@string/next_button_text"
+        android:id="@+id/next_button"
+        android:background="@drawable/next_button_action"
+        android:textSize="80sp"
+        android:layout_gravity="center"
+        android:textColor="#ff7e00"
+        android:layout_marginTop="110dp"
+        android:layout_marginLeft="0dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:onClick="goButton"
+        android:layout_width="85dp"
+        android:layout_height="70dp"
+        android:text="GO!"
+        android:id="@+id/go_button"
+        android:layout_gravity="left|center_vertical"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/go_button_action"
+        android:textColor="#9c0000"
+        android:layout_marginLeft="10dp"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="170dp"
+        android:text="@string/hello"
+        android:id="@+id/screen"
+        android:layout_gravity="center|left"
+        android:background="@drawable/screen"
+        android:layout_marginTop="-90dp"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="#0072ff"
+        android:textSize="28sp"
+        android:textIsSelectable="false"
+        android:textStyle="bold"
+        android:elegantTextHeight="false" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:id="@+id/opt_button"
+        android:layout_gravity="left|bottom"
+        android:background="@drawable/settings_action"
+        android:clickable="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="5dp"
+        android:onClick="options" />
+
+    <Button
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/startinfo"
+        android:focusable="false"
+        android:background="@drawable/info_button_action"
+        android:onClick="startInfo"
+        android:layout_alignBottom="@+id/timer"
+        android:layout_toLeftOf="@+id/team1_scoreboard"
+        android:layout_toStartOf="@+id/team1_scoreboard"
+        android:layout_gravity="left|bottom"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="90dp" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="RESET"
+        android:id="@+id/reset_button"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="70dp"
+        android:textSize="26sp"
+        android:background="@drawable/small_button_action"
+        android:clickable="true"
+        android:onClick="reset" />
+
+
+</FrameLayout>

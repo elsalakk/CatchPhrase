@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:id="@+id/start_screen">
+
+    <Button
+        android:onClick="skipButton"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:text="@string/skip"
+        android:id="@+id/skip_instructions"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="@drawable/go_button_action"
+        android:textColor="#000"
+        android:layout_marginBottom="40dp"
+        android:layout_marginLeft="80dp"
+        android:textSize="30sp" />
+
+    <Button
+        android:onClick="nextButton"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:text="@string/next_button_text"
+        android:id="@+id/next_instruction"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="@drawable/go_button_action"
+        android:textColor="#000"
+        android:layout_marginRight="80dp"
+        android:layout_marginBottom="40dp"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Instr1"
+        android:id="@+id/instructions"
+        android:layout_gravity="center"
+        android:textColor="@color/primary_material_light"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:focusableInTouchMode="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Instructions_title"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal|top"
+        android:textColor="@color/button_material_light"
+        android:textSize="90sp"
+        android:layout_marginTop="30dp" />
+
+</FrameLayout>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phrase Difficulty"
+        android:id="@+id/phrase_difficutly"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Easy"
+            android:id="@+id/easy"
+            android:layout_gravity="left|top"
+            android:textSize="25sp"
+            android:layout_marginLeft="50dp"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_marginTop="60dp"
+            android:onClick="easy"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hard"
+            android:id="@+id/hard"
+            android:layout_gravity="left|top"
+            android:checked="false"
+            android:textSize="25sp"
+            android:layout_marginLeft="50dp"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_marginTop="0dp"
+            android:onClick="hard"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Both"
+            android:id="@+id/radioButton"
+            android:checked="false"
+            android:textSize="25sp"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:layout_marginLeft="50dp"
+            android:onClick="both"/>
+    </RadioGroup>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/close"
+        android:layout_gravity="right|top"
+        android:background="@drawable/close_button_action"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:onClick="finish"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/user_input_dic"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="50dp"
+        android:hint="@string/dictionaryDir"
+        android:layout_marginRight="120sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/user_dictioary_title"
+        android:id="@+id/userDictionaryTitle"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="220dp"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/user_goSound_title"
+        android:id="@+id/userGoTitle"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="745dp"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/user_input_mus"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="790dp"
+        android:layout_marginLeft="50dp"
+        android:hint="@string/enterMp3Hint"
+        android:layout_marginRight="120sp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/dictionaryEx"
+        android:layout_gravity="left|top"
+        android:text="@string/exampleDictionary"
+        android:textSize="22sp"
+        android:background="#000"
+        android:textColor="#ffffff"
+        android:gravity="center|start"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="310dp"
+        android:padding="8dp"
+        android:layout_marginRight="20dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/dicInstrctions"
+        android:text="@string/dicInstructions"
+        android:textSize="22sp"
+        android:background="#000"
+        android:textColor="#ffffff"
+        android:gravity="center|top"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="left|top"
+        android:padding="8dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/info_button"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="500dp"
+        android:layout_marginTop="265dp"
+        android:onClick="displayInfo"
+        android:background="@drawable/info_button_action" />
+
+
+</FrameLayout>
+<!-- From: file:/C:/Users/User/AndroidStudioProjects/GuessIt/app/src/main/res/layout-large-xhdpi/options.xml -->
